@@ -12,3 +12,7 @@ Docker | How to Dockerize a Django application (Beginners Guide)
 
 [https://www.youtube.com/watch?v=aMqs_y6dZw4&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=2]
 
+## Part-3-How to configure PostgreSQL or MySQL database with Python Django
+
+[https://www.youtube.com/watch?v=q75wgk9jVjA&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=3]
+
