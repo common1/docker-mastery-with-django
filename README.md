@@ -16,3 +16,7 @@ Docker | How to Dockerize a Django application (Beginners Guide)
 
 [https://www.youtube.com/watch?v=q75wgk9jVjA&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=3]
 
+## Part 4 - Django | PostgreSQL | Redis & Celery Baseline Configuration
+
+[https://www.youtube.com/watch?v=zGtGliXMrPQ&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=4]
+
