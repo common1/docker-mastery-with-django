@@ -24,3 +24,7 @@ Docker | How to Dockerize a Django application (Beginners Guide)
 
 [https://www.youtube.com/watch?v=xtllpDEOw4w&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=5]
 
+## Part 6 owards serving React (Nginx) with Django API (gunicorn)
+
+[https://www.youtube.com/watch?v=e63EBEFJkH0&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=6]
+
