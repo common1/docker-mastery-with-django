@@ -20,3 +20,7 @@ Docker | How to Dockerize a Django application (Beginners Guide)
 
 [https://www.youtube.com/watch?v=zGtGliXMrPQ&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=4]
 
+## Part 5 - How to Dockerize a React application
+
+[https://www.youtube.com/watch?v=xtllpDEOw4w&list=PLOLrQ9Pn6cazCfL7v4CdaykNoWMQymM_C&index=5]
+
