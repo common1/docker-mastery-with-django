@@ -1,11 +1,18 @@
 import React from 'react';
-import { makeStyles } from '@material-ui/core/styles';
-import Card from '@material-ui/core/Card';
-import CardContent from '@material-ui/core/CardContent';
-import CardMedia from '@material-ui/core/CardMedia';
-import Grid from '@material-ui/core/Grid';
-import Typography from '@material-ui/core/Typography';
-import Container from '@material-ui/core/Container';
+// import { makeStyles } from '@material-ui/core/styles';
+import { makeStyles } from "@mui/styles";
+// import Card from '@material-ui/core/Card';
+import { Card } from '@mui/material';
+// import CardContent from '@material-ui/core/CardContent';
+import { CardContent } from '@mui/material';
+// import CardMedia from '@material-ui/core/CardMedia';
+import { CardMedia } from '@mui/material';
+// import Grid from '@material-ui/core/Grid';
+import { Grid } from '@mui/material';
+// import Typography from '@material-ui/core/Typography';
+import Typography from '@mui/material/Typography';
+// import Container from '@material-ui/core/Container';
+import { Container } from '@mui/material';
 
 const useStyles = makeStyles((theme) => ({
 	cardMedia: {

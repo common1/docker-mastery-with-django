@@ -1,10 +1,17 @@
 import React from 'react';
-import Container from '@material-ui/core/Container';
-import { makeStyles } from '@material-ui/core/styles';
-import Typography from '@material-ui/core/Typography';
-import Grid from '@material-ui/core/Grid';
-import Link from '@material-ui/core/Link';
-import Box from '@material-ui/core/Box';
+// import Container from '@material-ui/core/Container';
+import { Container } from '@mui/material';
+// import Grid from '@material-ui/core/Grid';
+import { Grid } from '@mui/material';
+// import { makeStyles } from '@material-ui/core/styles';
+import { makeStyles } from "@mui/styles";
+// import Typography from '@material-ui/core/Typography';
+import Typography from '@mui/material/Typography';
+// import Grid from '@material-ui/core/Grid';
+// import Link from '@material-ui/core/Link';
+import { Link } from '@mui/material';
+// import Box from '@material-ui/core/Box';
+import Box from '@mui/material/Box';
 
 const useStyles = makeStyles((theme) => ({
 	footer: {
