@@ -10,6 +10,18 @@ import CssBaseline from '@mui/material/CssBaseline';
 // import { makeStyles } from '@material-ui/core/styles';
 import { makeStyles } from "@mui/styles";
 
+const theme = createTheme({
+  typography: {
+    tab: {
+      fontSize: 20,
+    },
+  },
+  palette: {
+    common: {
+      purple: 'purple',
+    },
+  },
+})
 
 const useStyles = makeStyles((theme) => ({
 	appBar: {

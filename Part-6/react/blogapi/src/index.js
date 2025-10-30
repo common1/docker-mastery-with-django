@@ -7,6 +7,7 @@ import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import App from './App';
 import Header from './components/Header';
 import Footer from './components/Footer';
+import {StrictMode} from 'react'; 
 
 const routing = (
 	<Router>
@@ -22,7 +23,11 @@ const routing = (
 
 // ReactDOM.render(routing, document.getElementById('root'));
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(routing);
+root.render(
+	<StrictMode>
+		{routing}
+	</StrictMode>	
+);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
